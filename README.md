@@ -28,3 +28,6 @@ node server.js
 3. Open
 
 index.html
+## Demo
+
+![AI Chatbot](screenshot.png)
